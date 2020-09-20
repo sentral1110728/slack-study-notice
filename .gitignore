@@ -1,0 +1,9 @@
+.AppleDouble/
+*.DS_Store
+**/__pycache__/*
+**/deps/*
+*.env
+*.env.dev
+*.env.dev.bk
+**/.terraform/*
+*.zip
